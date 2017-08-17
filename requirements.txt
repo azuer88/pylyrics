@@ -1,0 +1,9 @@
+BeautifulSoup==3.2.1
+eyeD3==0.8
+get==0.0.0
+post==0.0.0
+public==0.0.0
+query-string==0.0.0
+request==0.0.0
+setupfiles==0.0.50
+six==1.10.0
