@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# ignore mp3 files
+*.mp3
